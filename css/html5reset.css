@@ -1,0 +1,7 @@
+/* Minimal HTML5 reset (based on Eric Meyer's reset) */
+html,body,div,span,h1,h2,h3,h4,p,a,ul,ol,li,nav,header,footer,main,section,article,table,th,td,tr,thead,tbody,img,figure{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}
+article,aside,figure,footer,header,main,nav,section{display:block}
+ul,ol{list-style:none}
+img{max-width:100%;height:auto;display:block}
+table{border-collapse:collapse;border-spacing:0}
+*,*::before,*::after{box-sizing:border-box}
